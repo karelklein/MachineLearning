@@ -1,0 +1,75 @@
+@relation InstanceResultListener
+
+@attribute Key_Dataset {diabetes}
+@attribute Key_Run {1}
+@attribute Key_Scheme {weka.classifiers.trees.J48}
+@attribute Key_Scheme_options {'-C 0.25 -M 2'}
+@attribute Key_Scheme_version_ID {-217733168393644444}
+@attribute Date_time numeric
+@attribute Number_of_training_instances numeric
+@attribute Number_of_testing_instances numeric
+@attribute Number_correct numeric
+@attribute Number_incorrect numeric
+@attribute Number_unclassified numeric
+@attribute Percent_correct numeric
+@attribute Percent_incorrect numeric
+@attribute Percent_unclassified numeric
+@attribute Kappa_statistic numeric
+@attribute Mean_absolute_error numeric
+@attribute Root_mean_squared_error numeric
+@attribute Relative_absolute_error numeric
+@attribute Root_relative_squared_error numeric
+@attribute SF_prior_entropy numeric
+@attribute SF_scheme_entropy numeric
+@attribute SF_entropy_gain numeric
+@attribute SF_mean_prior_entropy numeric
+@attribute SF_mean_scheme_entropy numeric
+@attribute SF_mean_entropy_gain numeric
+@attribute KB_information numeric
+@attribute KB_mean_information numeric
+@attribute KB_relative_information numeric
+@attribute True_positive_rate numeric
+@attribute Num_true_positives numeric
+@attribute False_positive_rate numeric
+@attribute Num_false_positives numeric
+@attribute True_negative_rate numeric
+@attribute Num_true_negatives numeric
+@attribute False_negative_rate numeric
+@attribute Num_false_negatives numeric
+@attribute IR_precision numeric
+@attribute IR_recall numeric
+@attribute F_measure numeric
+@attribute Matthews_correlation numeric
+@attribute Area_under_ROC numeric
+@attribute Area_under_PRC numeric
+@attribute Weighted_avg_true_positive_rate numeric
+@attribute Weighted_avg_false_positive_rate numeric
+@attribute Weighted_avg_true_negative_rate numeric
+@attribute Weighted_avg_false_negative_rate numeric
+@attribute Weighted_avg_IR_precision numeric
+@attribute Weighted_avg_IR_recall numeric
+@attribute Weighted_avg_F_measure numeric
+@attribute Weighted_avg_matthews_correlation numeric
+@attribute Weighted_avg_area_under_ROC numeric
+@attribute Weighted_avg_area_under_PRC numeric
+@attribute Unweighted_macro_avg_F_measure numeric
+@attribute Unweighted_micro_avg_F_measure numeric
+@attribute Elapsed_Time_training numeric
+@attribute Elapsed_Time_testing numeric
+@attribute UserCPU_Time_training numeric
+@attribute UserCPU_Time_testing numeric
+@attribute UserCPU_Time_millis_training numeric
+@attribute UserCPU_Time_millis_testing numeric
+@attribute Serialized_Model_Size numeric
+@attribute Serialized_Train_Set_Size numeric
+@attribute Serialized_Test_Set_Size numeric
+@attribute Coverage_of_Test_Cases_By_Regions numeric
+@attribute Size_of_Predicted_Regions numeric
+@attribute Summary {'Number of leaves: 10\nSize of the tree: 19\n'}
+@attribute measureTreeSize numeric
+@attribute measureNumLeaves numeric
+@attribute measureNumRules numeric
+
+@data
+
+diabetes,1,weka.classifiers.trees.J48,'-C 0.25 -M 2',-217733168393644444,20170203.2312,154,154,134,20,0,87.012987,12.987013,0,0.723866,0.20594,0.320889,44.798098,66.969019,144.805658,75.629145,69.176513,0.940296,0.491098,0.449198,83.744413,0.543795,8891.68359,0.872727,48,0.131313,13,0.868687,86,0.127273,7,0.786885,0.872727,0.827586,0.726363,0.899265,0.797732,0.87013,0.128716,0.871284,0.12987,0.8755,0.87013,0.871459,0.726363,0.899265,0.871791,0.86171,0.87013,0.02,0.001,0.001441,0.000194,1.441,0.194,6436,17024,17024,100,95.12987,'Number of leaves: 10\nSize of the tree: 19\n',19,10,10

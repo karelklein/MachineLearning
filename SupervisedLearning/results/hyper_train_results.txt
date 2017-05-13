@@ -1,0 +1,39 @@
+Tester:     weka.experiment.PairedCorrectedTTester -G 1 -D 4,5 -R 2 -S 0.05 -result-matrix "weka.experiment.ResultMatrixPlainText -mean-prec 2 -stddev-prec 2 -col-name-width 0 -row-name-width 25 -mean-width 2 -stddev-width 2 -sig-width 1 -count-width 5 -print-col-names -print-row-names -enum-col-names"
+Analysing:  Percent_incorrect
+Datasets:   17
+Resultsets: 2
+Confidence: 0.05 (two tailed)
+Sorted by:  -
+Date:       2/3/17 1:48 PM
+
+
+Dataset                   (1) diabetes | (2) income
+--------------------------------------------------
+trees.J48 '-C 0.125 -M 2'  (3)   24.76 |   16.97 *
+trees.J48 '-C 0.25 -M 2'   (3)   25.90 |   17.00 *
+trees.J48 '-C 0.5 -M 2'    (3)   25.90 |   17.85  
+trees.J48 '-U -M 2'        (3)   26.55 |   18.87 *
+lazy.IBk '-K 1 -W 0 -A \"  (3)   27.85 |   23.10  
+lazy.IBk '-K 2 -W 0 -A \"  (3)   31.10 |   24.27  
+lazy.IBk '-K 4 -W 0 -A \"  (3)   29.31 |   21.30  
+lazy.IBk '-K 6 -W 0 -A \"  (3)   28.33 |   20.50  
+functions.SMO '-C 1.0 -L   (3)   23.94 |   16.15 *
+functions.SMO '-C 1.0 -L   (3)   24.91 |   19.95  
+functions.SMO '-C 1.0 -L   (3)   34.69 |   18.15 *
+meta.AdaBoostM1 '-P 100 -  (3)   26.38 |   17.65 *
+meta.AdaBoostM1 '-P 100 -  (3)   27.85 |   23.10  
+meta.AdaBoostM1 '-P 100 -  (3)   24.10 |   16.45  
+functions.MultilayerPerce  (3)   26.71 |   21.87 *
+functions.MultilayerPerce  (3)   28.17 |   19.32  
+functions.MultilayerPerce  (3)   27.36 |   22.95
+functions.MultilayerPerce  (3)   24.75 |   18.57
+functions.MultilayerPerce  (3)   23.45 |   18.17 
+functions.MultilayerPerce  (3)   27.03 |   18.47  
+--------------------------------------------------
+                               (v/ /*) |  (0/10/7)
+
+
+Key:
+(1) diabetes
+(2) income
+

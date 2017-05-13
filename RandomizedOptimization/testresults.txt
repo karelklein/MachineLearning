@@ -1,0 +1,2437 @@
+--------------10000 iterations--------------
+
+Error results for RHC
+---------------------------
+
+Test on Training set Results for RHC: 
+Correctly classified 312.0 instances.
+Incorrectly classified 157.0 instances.
+Percent correctly classified: 66.525%
+Training time: 24.038 seconds
+Testing time: 0.020 seconds
+
+
+Test on Test set Results for RHC: 
+Correctly classified 93.0 instances.
+Incorrectly classified 61.0 instances.
+Percent correctly classified: 60.390%
+Testing time: 0.004 seconds
+
+Here is the result for temperature 1.0 and cooling rate 0.99
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 305.0 instances.
+Incorrectly classified 164.0 instances.
+Percent correctly classified: 65.032%
+Training time: 19.338 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 106.0 instances.
+Incorrectly classified 39.0 instances.
+Percent correctly classified: 73.103%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 95.0 instances.
+Incorrectly classified 59.0 instances.
+Percent correctly classified: 61.688%
+Testing time: 0.002 seconds
+
+Here is the result for temperature 1.0 and cooling rate 0.95
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 304.0 instances.
+Incorrectly classified 165.0 instances.
+Percent correctly classified: 64.819%
+Training time: 22.639 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 107.0 instances.
+Incorrectly classified 38.0 instances.
+Percent correctly classified: 73.793%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 94.0 instances.
+Incorrectly classified 60.0 instances.
+Percent correctly classified: 61.039%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 1.0 and cooling rate 0.9
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 326.0 instances.
+Incorrectly classified 143.0 instances.
+Percent correctly classified: 69.510%
+Training time: 20.967 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 100.0 instances.
+Incorrectly classified 45.0 instances.
+Percent correctly classified: 68.966%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 90.0 instances.
+Incorrectly classified 64.0 instances.
+Percent correctly classified: 58.442%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 1.0 and cooling rate 0.8
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 303.0 instances.
+Incorrectly classified 166.0 instances.
+Percent correctly classified: 64.606%
+Training time: 21.002 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 109.0 instances.
+Incorrectly classified 36.0 instances.
+Percent correctly classified: 75.172%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 100.0 instances.
+Incorrectly classified 54.0 instances.
+Percent correctly classified: 64.935%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 5.0 and cooling rate 0.99
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 309.0 instances.
+Incorrectly classified 160.0 instances.
+Percent correctly classified: 65.885%
+Training time: 21.765 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 97.0 instances.
+Incorrectly classified 48.0 instances.
+Percent correctly classified: 66.897%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 103.0 instances.
+Incorrectly classified 51.0 instances.
+Percent correctly classified: 66.883%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 5.0 and cooling rate 0.95
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 313.0 instances.
+Incorrectly classified 156.0 instances.
+Percent correctly classified: 66.738%
+Training time: 21.168 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 89.0 instances.
+Incorrectly classified 56.0 instances.
+Percent correctly classified: 61.379%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 92.0 instances.
+Incorrectly classified 62.0 instances.
+Percent correctly classified: 59.740%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 5.0 and cooling rate 0.9
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 331.0 instances.
+Incorrectly classified 138.0 instances.
+Percent correctly classified: 70.576%
+Training time: 21.275 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 113.0 instances.
+Incorrectly classified 32.0 instances.
+Percent correctly classified: 77.931%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 102.0 instances.
+Incorrectly classified 52.0 instances.
+Percent correctly classified: 66.234%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 5.0 and cooling rate 0.8
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 322.0 instances.
+Incorrectly classified 147.0 instances.
+Percent correctly classified: 68.657%
+Training time: 20.974 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 91.0 instances.
+Incorrectly classified 54.0 instances.
+Percent correctly classified: 62.759%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 83.0 instances.
+Incorrectly classified 71.0 instances.
+Percent correctly classified: 53.896%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 10.0 and cooling rate 0.99
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 327.0 instances.
+Incorrectly classified 142.0 instances.
+Percent correctly classified: 69.723%
+Training time: 23.170 seconds
+Testing time: 0.008 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 91.0 instances.
+Incorrectly classified 54.0 instances.
+Percent correctly classified: 62.759%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 101.0 instances.
+Incorrectly classified 53.0 instances.
+Percent correctly classified: 65.584%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 10.0 and cooling rate 0.95
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 299.0 instances.
+Incorrectly classified 170.0 instances.
+Percent correctly classified: 63.753%
+Training time: 20.938 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 46.0 instances.
+Percent correctly classified: 68.276%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 82.0 instances.
+Incorrectly classified 72.0 instances.
+Percent correctly classified: 53.247%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 10.0 and cooling rate 0.9
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 311.0 instances.
+Incorrectly classified 158.0 instances.
+Percent correctly classified: 66.311%
+Training time: 21.028 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 93.0 instances.
+Incorrectly classified 52.0 instances.
+Percent correctly classified: 64.138%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 105.0 instances.
+Incorrectly classified 49.0 instances.
+Percent correctly classified: 68.182%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 10.0 and cooling rate 0.8
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 310.0 instances.
+Incorrectly classified 159.0 instances.
+Percent correctly classified: 66.098%
+Training time: 21.991 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 104.0 instances.
+Incorrectly classified 41.0 instances.
+Percent correctly classified: 71.724%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 94.0 instances.
+Incorrectly classified 60.0 instances.
+Percent correctly classified: 61.039%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 20.0 and cooling rate 0.99
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 314.0 instances.
+Incorrectly classified 155.0 instances.
+Percent correctly classified: 66.951%
+Training time: 23.651 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 102.0 instances.
+Incorrectly classified 43.0 instances.
+Percent correctly classified: 70.345%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 95.0 instances.
+Incorrectly classified 59.0 instances.
+Percent correctly classified: 61.688%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 20.0 and cooling rate 0.95
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 311.0 instances.
+Incorrectly classified 158.0 instances.
+Percent correctly classified: 66.311%
+Training time: 21.775 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 89.0 instances.
+Incorrectly classified 56.0 instances.
+Percent correctly classified: 61.379%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 78.0 instances.
+Incorrectly classified 76.0 instances.
+Percent correctly classified: 50.649%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 20.0 and cooling rate 0.9
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 340.0 instances.
+Incorrectly classified 129.0 instances.
+Percent correctly classified: 72.495%
+Training time: 22.912 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 101.0 instances.
+Incorrectly classified 44.0 instances.
+Percent correctly classified: 69.655%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 20.0 and cooling rate 0.8
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 325.0 instances.
+Incorrectly classified 144.0 instances.
+Percent correctly classified: 69.296%
+Training time: 21.453 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 98.0 instances.
+Incorrectly classified 47.0 instances.
+Percent correctly classified: 67.586%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 111.0 instances.
+Incorrectly classified 43.0 instances.
+Percent correctly classified: 72.078%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 100.0 and cooling rate 0.99
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 324.0 instances.
+Incorrectly classified 145.0 instances.
+Percent correctly classified: 69.083%
+Training time: 23.557 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 85.0 instances.
+Incorrectly classified 60.0 instances.
+Percent correctly classified: 58.621%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 87.0 instances.
+Incorrectly classified 67.0 instances.
+Percent correctly classified: 56.494%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 100.0 and cooling rate 0.95
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 303.0 instances.
+Incorrectly classified 166.0 instances.
+Percent correctly classified: 64.606%
+Training time: 23.000 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 83.0 instances.
+Incorrectly classified 62.0 instances.
+Percent correctly classified: 57.241%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 91.0 instances.
+Incorrectly classified 63.0 instances.
+Percent correctly classified: 59.091%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 100.0 and cooling rate 0.9
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 317.0 instances.
+Incorrectly classified 152.0 instances.
+Percent correctly classified: 67.591%
+Training time: 22.672 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 104.0 instances.
+Incorrectly classified 41.0 instances.
+Percent correctly classified: 71.724%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 100.0 and cooling rate 0.8
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 303.0 instances.
+Incorrectly classified 166.0 instances.
+Percent correctly classified: 64.606%
+Training time: 22.238 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 111.0 instances.
+Incorrectly classified 34.0 instances.
+Percent correctly classified: 76.552%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 98.0 instances.
+Incorrectly classified 56.0 instances.
+Percent correctly classified: 63.636%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 500.0 and cooling rate 0.99
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 310.0 instances.
+Incorrectly classified 159.0 instances.
+Percent correctly classified: 66.098%
+Training time: 22.408 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 89.0 instances.
+Incorrectly classified 56.0 instances.
+Percent correctly classified: 61.379%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 75.0 instances.
+Incorrectly classified 79.0 instances.
+Percent correctly classified: 48.701%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 500.0 and cooling rate 0.95
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 294.0 instances.
+Incorrectly classified 175.0 instances.
+Percent correctly classified: 62.687%
+Training time: 23.395 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 92.0 instances.
+Incorrectly classified 53.0 instances.
+Percent correctly classified: 63.448%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 103.0 instances.
+Incorrectly classified 51.0 instances.
+Percent correctly classified: 66.883%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 500.0 and cooling rate 0.9
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 315.0 instances.
+Incorrectly classified 154.0 instances.
+Percent correctly classified: 67.164%
+Training time: 22.478 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 94.0 instances.
+Incorrectly classified 51.0 instances.
+Percent correctly classified: 64.828%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 94.0 instances.
+Incorrectly classified 60.0 instances.
+Percent correctly classified: 61.039%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 500.0 and cooling rate 0.8
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 311.0 instances.
+Incorrectly classified 158.0 instances.
+Percent correctly classified: 66.311%
+Training time: 20.990 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 103.0 instances.
+Incorrectly classified 42.0 instances.
+Percent correctly classified: 71.034%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 93.0 instances.
+Incorrectly classified 61.0 instances.
+Percent correctly classified: 60.390%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 2500.0 and cooling rate 0.99
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 21.966 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 2500.0 and cooling rate 0.95
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 308.0 instances.
+Incorrectly classified 161.0 instances.
+Percent correctly classified: 65.672%
+Training time: 22.832 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 98.0 instances.
+Incorrectly classified 47.0 instances.
+Percent correctly classified: 67.586%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 96.0 instances.
+Incorrectly classified 58.0 instances.
+Percent correctly classified: 62.338%
+Testing time: 0.002 seconds
+
+Here is the result for temperature 2500.0 and cooling rate 0.9
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 304.0 instances.
+Incorrectly classified 165.0 instances.
+Percent correctly classified: 64.819%
+Training time: 22.682 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 97.0 instances.
+Incorrectly classified 48.0 instances.
+Percent correctly classified: 66.897%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 83.0 instances.
+Incorrectly classified 71.0 instances.
+Percent correctly classified: 53.896%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 2500.0 and cooling rate 0.8
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 310.0 instances.
+Incorrectly classified 159.0 instances.
+Percent correctly classified: 66.098%
+Training time: 22.381 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 97.0 instances.
+Incorrectly classified 48.0 instances.
+Percent correctly classified: 66.897%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 104.0 instances.
+Incorrectly classified 50.0 instances.
+Percent correctly classified: 67.532%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 10000.0 and cooling rate 0.99
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 318.0 instances.
+Incorrectly classified 151.0 instances.
+Percent correctly classified: 67.804%
+Training time: 22.319 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 92.0 instances.
+Incorrectly classified 53.0 instances.
+Percent correctly classified: 63.448%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 98.0 instances.
+Incorrectly classified 56.0 instances.
+Percent correctly classified: 63.636%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 10000.0 and cooling rate 0.95
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 298.0 instances.
+Incorrectly classified 171.0 instances.
+Percent correctly classified: 63.539%
+Training time: 22.471 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 88.0 instances.
+Incorrectly classified 57.0 instances.
+Percent correctly classified: 60.690%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 91.0 instances.
+Incorrectly classified 63.0 instances.
+Percent correctly classified: 59.091%
+Testing time: 0.002 seconds
+
+Here is the result for temperature 10000.0 and cooling rate 0.9
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 316.0 instances.
+Incorrectly classified 153.0 instances.
+Percent correctly classified: 67.377%
+Training time: 22.318 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 106.0 instances.
+Incorrectly classified 39.0 instances.
+Percent correctly classified: 73.103%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 103.0 instances.
+Incorrectly classified 51.0 instances.
+Percent correctly classified: 66.883%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 10000.0 and cooling rate 0.8
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 320.0 instances.
+Incorrectly classified 149.0 instances.
+Percent correctly classified: 68.230%
+Training time: 22.482 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 105.0 instances.
+Incorrectly classified 40.0 instances.
+Percent correctly classified: 72.414%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 90.0 instances.
+Incorrectly classified 64.0 instances.
+Percent correctly classified: 58.442%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 1.0E10 and cooling rate 0.99
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 312.0 instances.
+Incorrectly classified 157.0 instances.
+Percent correctly classified: 66.525%
+Training time: 22.670 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 96.0 instances.
+Incorrectly classified 49.0 instances.
+Percent correctly classified: 66.207%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 105.0 instances.
+Incorrectly classified 49.0 instances.
+Percent correctly classified: 68.182%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 1.0E10 and cooling rate 0.95
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 309.0 instances.
+Incorrectly classified 160.0 instances.
+Percent correctly classified: 65.885%
+Training time: 23.212 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 90.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 62.069%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 74.0 instances.
+Incorrectly classified 80.0 instances.
+Percent correctly classified: 48.052%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 1.0E10 and cooling rate 0.9
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 300.0 instances.
+Incorrectly classified 169.0 instances.
+Percent correctly classified: 63.966%
+Training time: 22.735 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 101.0 instances.
+Incorrectly classified 44.0 instances.
+Percent correctly classified: 69.655%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 84.0 instances.
+Incorrectly classified 70.0 instances.
+Percent correctly classified: 54.545%
+Testing time: 0.001 seconds
+
+Here is the result for temperature 1.0E10 and cooling rate 0.8
+
+
+Error results for SA
+---------------------------
+
+Test on Training set Results for SA: 
+Correctly classified 314.0 instances.
+Incorrectly classified 155.0 instances.
+Percent correctly classified: 66.951%
+Training time: 22.731 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for SA: 
+Correctly classified 110.0 instances.
+Incorrectly classified 35.0 instances.
+Percent correctly classified: 75.862%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for SA: 
+Correctly classified 98.0 instances.
+Incorrectly classified 56.0 instances.
+Percent correctly classified: 63.636%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.6 mutate 0.0
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 186.379 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.6 mutate 0.01
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 185.517 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.6 mutate 0.05
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 192.658 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.6 mutate 0.1
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 300.0 instances.
+Incorrectly classified 169.0 instances.
+Percent correctly classified: 63.966%
+Training time: 201.535 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 111.0 instances.
+Incorrectly classified 34.0 instances.
+Percent correctly classified: 76.552%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 103.0 instances.
+Incorrectly classified 51.0 instances.
+Percent correctly classified: 66.883%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.6 mutate 0.2
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 303.0 instances.
+Incorrectly classified 166.0 instances.
+Percent correctly classified: 64.606%
+Training time: 228.797 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 100.0 instances.
+Incorrectly classified 45.0 instances.
+Percent correctly classified: 68.966%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 95.0 instances.
+Incorrectly classified 59.0 instances.
+Percent correctly classified: 61.688%
+Testing time: 0.002 seconds
+
+Here is the result for population 80 crossover 0.8 mutate 0.0
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 244.640 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.8 mutate 0.01
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 294.0 instances.
+Incorrectly classified 175.0 instances.
+Percent correctly classified: 62.687%
+Training time: 246.679 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 106.0 instances.
+Incorrectly classified 39.0 instances.
+Percent correctly classified: 73.103%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 98.0 instances.
+Incorrectly classified 56.0 instances.
+Percent correctly classified: 63.636%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.8 mutate 0.05
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 250.409 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.8 mutate 0.1
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 267.302 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.8 mutate 0.2
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 313.0 instances.
+Incorrectly classified 156.0 instances.
+Percent correctly classified: 66.738%
+Training time: 259.449 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 46.0 instances.
+Percent correctly classified: 68.276%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 90.0 instances.
+Incorrectly classified 64.0 instances.
+Percent correctly classified: 58.442%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.9 mutate 0.0
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 314.394 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.9 mutate 0.01
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 273.304 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.9 mutate 0.05
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 305.0 instances.
+Incorrectly classified 164.0 instances.
+Percent correctly classified: 65.032%
+Training time: 288.181 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 102.0 instances.
+Incorrectly classified 43.0 instances.
+Percent correctly classified: 70.345%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 96.0 instances.
+Incorrectly classified 58.0 instances.
+Percent correctly classified: 62.338%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.9 mutate 0.1
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 296.609 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.9 mutate 0.2
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 311.0 instances.
+Incorrectly classified 158.0 instances.
+Percent correctly classified: 66.311%
+Training time: 314.019 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 101.0 instances.
+Incorrectly classified 44.0 instances.
+Percent correctly classified: 69.655%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 100.0 instances.
+Incorrectly classified 54.0 instances.
+Percent correctly classified: 64.935%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.95 mutate 0.0
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 311.146 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.95 mutate 0.01
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 309.0 instances.
+Incorrectly classified 160.0 instances.
+Percent correctly classified: 65.885%
+Training time: 296.179 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 98.0 instances.
+Incorrectly classified 47.0 instances.
+Percent correctly classified: 67.586%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 100.0 instances.
+Incorrectly classified 54.0 instances.
+Percent correctly classified: 64.935%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.95 mutate 0.05
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 306.0 instances.
+Incorrectly classified 163.0 instances.
+Percent correctly classified: 65.245%
+Training time: 308.746 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 105.0 instances.
+Incorrectly classified 40.0 instances.
+Percent correctly classified: 72.414%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.95 mutate 0.1
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 302.0 instances.
+Incorrectly classified 167.0 instances.
+Percent correctly classified: 64.392%
+Training time: 325.740 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 105.0 instances.
+Incorrectly classified 40.0 instances.
+Percent correctly classified: 72.414%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 96.0 instances.
+Incorrectly classified 58.0 instances.
+Percent correctly classified: 62.338%
+Testing time: 0.001 seconds
+
+Here is the result for population 80 crossover 0.95 mutate 0.2
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 315.713 seconds
+Testing time: 0.004 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.6 mutate 0.0
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 235.455 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.6 mutate 0.01
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 233.259 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.6 mutate 0.05
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 245.151 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.6 mutate 0.1
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 249.012 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.6 mutate 0.2
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 271.484 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.8 mutate 0.0
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 310.150 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.8 mutate 0.01
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 302.786 seconds
+Testing time: 0.004 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.8 mutate 0.05
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 320.254 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.8 mutate 0.1
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 345.271 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.8 mutate 0.2
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 331.097 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.9 mutate 0.0
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 341.044 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.9 mutate 0.01
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 314.0 instances.
+Incorrectly classified 155.0 instances.
+Percent correctly classified: 66.951%
+Training time: 345.724 seconds
+Testing time: 0.005 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 96.0 instances.
+Incorrectly classified 49.0 instances.
+Percent correctly classified: 66.207%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 88.0 instances.
+Incorrectly classified 66.0 instances.
+Percent correctly classified: 57.143%
+Testing time: 0.002 seconds
+
+Here is the result for population 100 crossover 0.9 mutate 0.05
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 299.0 instances.
+Incorrectly classified 170.0 instances.
+Percent correctly classified: 63.753%
+Training time: 343.900 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 95.0 instances.
+Incorrectly classified 50.0 instances.
+Percent correctly classified: 65.517%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 103.0 instances.
+Incorrectly classified 51.0 instances.
+Percent correctly classified: 66.883%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.9 mutate 0.1
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 356.196 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.9 mutate 0.2
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 313.0 instances.
+Incorrectly classified 156.0 instances.
+Percent correctly classified: 66.738%
+Training time: 365.640 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 103.0 instances.
+Incorrectly classified 42.0 instances.
+Percent correctly classified: 71.034%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 104.0 instances.
+Incorrectly classified 50.0 instances.
+Percent correctly classified: 67.532%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.95 mutate 0.0
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 358.452 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.95 mutate 0.01
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 297.0 instances.
+Incorrectly classified 172.0 instances.
+Percent correctly classified: 63.326%
+Training time: 361.424 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 98.0 instances.
+Incorrectly classified 47.0 instances.
+Percent correctly classified: 67.586%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 96.0 instances.
+Incorrectly classified 58.0 instances.
+Percent correctly classified: 62.338%
+Testing time: 0.002 seconds
+
+Here is the result for population 100 crossover 0.95 mutate 0.05
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 314.0 instances.
+Incorrectly classified 155.0 instances.
+Percent correctly classified: 66.951%
+Training time: 361.069 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 92.0 instances.
+Incorrectly classified 53.0 instances.
+Percent correctly classified: 63.448%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 98.0 instances.
+Incorrectly classified 56.0 instances.
+Percent correctly classified: 63.636%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.95 mutate 0.1
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 300.0 instances.
+Incorrectly classified 169.0 instances.
+Percent correctly classified: 63.966%
+Training time: 363.152 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 85.0 instances.
+Incorrectly classified 60.0 instances.
+Percent correctly classified: 58.621%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 105.0 instances.
+Incorrectly classified 49.0 instances.
+Percent correctly classified: 68.182%
+Testing time: 0.001 seconds
+
+Here is the result for population 100 crossover 0.95 mutate 0.2
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 373.700 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 200 crossover 0.6 mutate 0.0
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 454.755 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 200 crossover 0.6 mutate 0.01
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 298.0 instances.
+Incorrectly classified 171.0 instances.
+Percent correctly classified: 63.539%
+Training time: 457.139 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 98.0 instances.
+Incorrectly classified 47.0 instances.
+Percent correctly classified: 67.586%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 81.0 instances.
+Incorrectly classified 73.0 instances.
+Percent correctly classified: 52.597%
+Testing time: 0.001 seconds
+
+Here is the result for population 200 crossover 0.6 mutate 0.05
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 320.0 instances.
+Incorrectly classified 149.0 instances.
+Percent correctly classified: 68.230%
+Training time: 471.226 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 101.0 instances.
+Incorrectly classified 44.0 instances.
+Percent correctly classified: 69.655%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 91.0 instances.
+Incorrectly classified 63.0 instances.
+Percent correctly classified: 59.091%
+Testing time: 0.001 seconds
+
+Here is the result for population 200 crossover 0.6 mutate 0.1
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 306.0 instances.
+Incorrectly classified 163.0 instances.
+Percent correctly classified: 65.245%
+Training time: 535.729 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 78.0 instances.
+Incorrectly classified 67.0 instances.
+Percent correctly classified: 53.793%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 103.0 instances.
+Incorrectly classified 51.0 instances.
+Percent correctly classified: 66.883%
+Testing time: 0.001 seconds
+
+Here is the result for population 200 crossover 0.6 mutate 0.2
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 302.0 instances.
+Incorrectly classified 167.0 instances.
+Percent correctly classified: 64.392%
+Training time: 518.482 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 87.0 instances.
+Incorrectly classified 58.0 instances.
+Percent correctly classified: 60.000%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 98.0 instances.
+Incorrectly classified 56.0 instances.
+Percent correctly classified: 63.636%
+Testing time: 0.020 seconds
+
+Here is the result for population 200 crossover 0.8 mutate 0.0
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 592.873 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.001 seconds
+
+Here is the result for population 200 crossover 0.8 mutate 0.01
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 308.0 instances.
+Incorrectly classified 161.0 instances.
+Percent correctly classified: 65.672%
+Training time: 601.772 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 103.0 instances.
+Incorrectly classified 42.0 instances.
+Percent correctly classified: 71.034%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 84.0 instances.
+Incorrectly classified 70.0 instances.
+Percent correctly classified: 54.545%
+Testing time: 0.001 seconds
+
+Here is the result for population 200 crossover 0.8 mutate 0.05
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 310.0 instances.
+Incorrectly classified 159.0 instances.
+Percent correctly classified: 66.098%
+Training time: 606.162 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 90.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 62.069%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 83.0 instances.
+Incorrectly classified 71.0 instances.
+Percent correctly classified: 53.896%
+Testing time: 0.001 seconds
+
+Here is the result for population 200 crossover 0.9 mutate 0.0
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 293.0 instances.
+Incorrectly classified 176.0 instances.
+Percent correctly classified: 62.473%
+Training time: 675.082 seconds
+Testing time: 0.024 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 108.0 instances.
+Incorrectly classified 37.0 instances.
+Percent correctly classified: 74.483%
+Testing time: 0.004 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 99.0 instances.
+Incorrectly classified 55.0 instances.
+Percent correctly classified: 64.286%
+Testing time: 0.004 seconds
+
+Here is the result for population 200 crossover 0.9 mutate 0.01
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 302.0 instances.
+Incorrectly classified 167.0 instances.
+Percent correctly classified: 64.392%
+Training time: 669.844 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 91.0 instances.
+Incorrectly classified 54.0 instances.
+Percent correctly classified: 62.759%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 103.0 instances.
+Incorrectly classified 51.0 instances.
+Percent correctly classified: 66.883%
+Testing time: 0.004 seconds
+
+Here is the result for population 200 crossover 0.9 mutate 0.05
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 303.0 instances.
+Incorrectly classified 166.0 instances.
+Percent correctly classified: 64.606%
+Training time: 675.100 seconds
+Testing time: 0.007 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 76.0 instances.
+Incorrectly classified 69.0 instances.
+Percent correctly classified: 52.414%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 83.0 instances.
+Incorrectly classified 71.0 instances.
+Percent correctly classified: 53.896%
+Testing time: 0.004 seconds
+
+Here is the result for population 200 crossover 0.9 mutate 0.1
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 308.0 instances.
+Incorrectly classified 161.0 instances.
+Percent correctly classified: 65.672%
+Training time: 673.373 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 85.0 instances.
+Incorrectly classified 60.0 instances.
+Percent correctly classified: 58.621%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 102.0 instances.
+Incorrectly classified 52.0 instances.
+Percent correctly classified: 66.234%
+Testing time: 0.001 seconds
+
+Here is the result for population 200 crossover 0.9 mutate 0.2
+
+
+Error results for GA
+---------------------------
+
+Test on Training set Results for GA: 
+Correctly classified 310.0 instances.
+Incorrectly classified 159.0 instances.
+Percent correctly classified: 66.098%
+Training time: 673.737 seconds
+Testing time: 0.003 seconds
+
+
+Test on CV set Results for GA: 
+Correctly classified 85.0 instances.
+Incorrectly classified 60.0 instances.
+Percent correctly classified: 58.621%
+Testing time: 0.001 seconds
+
+
+Test on Test set Results for GA: 
+Correctly classified 77.0 instances.
+Incorrectly classified 77.0 instances.
+Percent correctly classified: 50.000%
+Testing time: 0.001 seconds
+
+Convergence in 500 iterations
+
+Test on Training set Results for BP: 
+Correctly classified 307.0 instances.
+Incorrectly classified 162.0 instances.
+Percent correctly classified: 65.458%
+Training time: 0.490 seconds
+Testing time: 0.014 seconds
+
+
+Test on Test set Results for BP: 
+Correctly classified 93.0 instances.
+Incorrectly classified 61.0 instances.
+Percent correctly classified: 60.390%
+Testing time: 0.002 seconds
